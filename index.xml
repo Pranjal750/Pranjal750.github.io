@@ -6,10 +6,19 @@
     <description>Recent content on Pranjal Panwar&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Jun 2021 07:51:51 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 11 Jun 2021 09:07:20 -0700</lastBuildDate>
     
 	<atom:link href="http://Pranjal750.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>http://Pranjal750.github.io/contact/</link>
+      <pubDate>Fri, 11 Jun 2021 09:07:20 -0700</pubDate>
+      
+      <guid>http://Pranjal750.github.io/contact/</guid>
+      <description>Email: pranjal.panwar750@gmail.com Github: https://github.com/Pranjal750</description>
+    </item>
     
     <item>
       <title>Day 9</title>
