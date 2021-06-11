@@ -6,18 +6,90 @@
     <description>Recent content on Pranjal Panwar&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Jun 2021 10:35:19 -0700</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jun 2021 07:51:51 -0700</lastBuildDate>
     
 	<atom:link href="http://Pranjal750.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Day 9</title>
+      <link>http://Pranjal750.github.io/posts/post-9/</link>
+      <pubDate>Wed, 09 Jun 2021 07:51:51 -0700</pubDate>
+      
+      <guid>http://Pranjal750.github.io/posts/post-9/</guid>
+      <description>I started reading about CI/CD and how is it used in our work.</description>
+    </item>
+    
+    <item>
+      <title>Day 8</title>
+      <link>http://Pranjal750.github.io/posts/post-8/</link>
+      <pubDate>Tue, 08 Jun 2021 07:51:46 -0700</pubDate>
+      
+      <guid>http://Pranjal750.github.io/posts/post-8/</guid>
+      <description>I did the final step of pushing my code into my Github repository and deployed my Hugo website to Github Pages .</description>
+    </item>
+    
+    <item>
+      <title>Day 7</title>
+      <link>http://Pranjal750.github.io/posts/post-7/</link>
+      <pubDate>Mon, 07 Jun 2021 07:51:43 -0700</pubDate>
+      
+      <guid>http://Pranjal750.github.io/posts/post-7/</guid>
+      <description>I learnt about building and deploying website to Github Pages. Then I built my Hugo website .</description>
+    </item>
+    
+    <item>
+      <title>Day 6</title>
+      <link>http://Pranjal750.github.io/posts/post-6/</link>
+      <pubDate>Sun, 06 Jun 2021 07:51:41 -0700</pubDate>
+      
+      <guid>http://Pranjal750.github.io/posts/post-6/</guid>
+      <description>I launched my site on my local machine with the Hugo built-in server and again edited some information in configuration file to fix some bits and pieces.</description>
+    </item>
+    
+    <item>
+      <title>Day 5</title>
+      <link>http://Pranjal750.github.io/posts/post-5/</link>
+      <pubDate>Sat, 05 Jun 2021 07:51:37 -0700</pubDate>
+      
+      <guid>http://Pranjal750.github.io/posts/post-5/</guid>
+      <description>I customized information in config.toml file to the way i wanted it . I also created my first blog post .</description>
+    </item>
+    
+    <item>
+      <title>Day 4</title>
+      <link>http://Pranjal750.github.io/posts/post-4/</link>
+      <pubDate>Fri, 04 Jun 2021 07:51:33 -0700</pubDate>
+      
+      <guid>http://Pranjal750.github.io/posts/post-4/</guid>
+      <description>I cloned hugo-coder theme for my website  and also creted a new Github repository https://github.com/Pranjal750/Pranjal750.github.io where I have to deploy my site later.</description>
+    </item>
+    
+    <item>
+      <title>Day 3</title>
+      <link>http://Pranjal750.github.io/posts/post-3/</link>
+      <pubDate>Thu, 03 Jun 2021 07:51:28 -0700</pubDate>
+      
+      <guid>http://Pranjal750.github.io/posts/post-3/</guid>
+      <description>I created a new website with Hugo . I learnt about different themes that i would use in my website.</description>
+    </item>
+    
+    <item>
+      <title>Day 2</title>
+      <link>http://Pranjal750.github.io/posts/post-2/</link>
+      <pubDate>Wed, 02 Jun 2021 07:51:25 -0700</pubDate>
+      
+      <guid>http://Pranjal750.github.io/posts/post-2/</guid>
+      <description>I learnt about hugo and how is it used t make a website. I also installed hugo and git in my Linux operating system .</description>
+    </item>
+    
+    <item>
       <title>Day 1</title>
       <link>http://Pranjal750.github.io/posts/post-1/</link>
-      <pubDate>Thu, 10 Jun 2021 10:35:19 -0700</pubDate>
+      <pubDate>Tue, 01 Jun 2021 10:35:19 -0700</pubDate>
       
       <guid>http://Pranjal750.github.io/posts/post-1/</guid>
-      <description>This is my first blog.</description>
+      <description>I learnt about Git, Github and how to work in them. I also learnt about markdown format of writing and created my first Github page written in markdown.</description>
     </item>
     
   </channel>
